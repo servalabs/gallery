@@ -1,22 +1,3 @@
-<p align="center"> 
-  <br/>  
-  <a href="https://opensource.org/license/agpl-v3"><img src="https://img.shields.io/badge/License-AGPL_v3-blue.svg?color=3F51B5&style=for-the-badge&label=License&logoColor=000000&labelColor=ececec" alt="License: AGPLv3"></a>
-  <a href="https://discord.immich.app">
-  </a>
-  <br/>  
-  <br/>   
-</p>
-
-<p align="center">
-<img src="design/immich-logo-stacked-light.svg" width="300" title="Login With Custom URL">
-</p>
-<h3 align="center">High performance self-hosted photo and video management solution</h3>
-<br/>
-<a href="https://immich.app">
-<img src="design/immich-screenshots.png" title="Main Screenshot">
-</a>
-<br/>
-
 ## Links
 
 - [Documentation](https://immich.app/docs)
